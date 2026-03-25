@@ -1,0 +1,40 @@
+.auto{
+    color: #5500ff;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.NOTA{
+    color: #49168c;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.PAGINA{
+    color: #8c1a16;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.pregunta2{
+    color: #543c35;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.mov{
+    color: #0f4b4d;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.tablaa{
+    border: 3px solid blue;
+    border-color: #1f4d0f;
+    border-width: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: medium;
+}
+.table,TH,TD{
+    border: 3px solid blue;
+    border-color: #1f4d0f;
+    border-width: medium;
+}
